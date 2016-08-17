@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="80" height="48" tilewidth="10" tileheight="10" nextobjectid="1">
+ <tileset firstgid="1" name="main" tilewidth="10" tileheight="10" tilecount="2500">
+  <image source="map1.png" width="500" height="500"/>
+ </tileset>
+ <layer name="back" width="80" height="48">
+  <data encoding="base64" compression="zlib">
+   eJyt2dWS3EYUxnHtJJvEXrOdOMl7hMyzZAz5JYLGRWPwIsxQYeOSMfgecchMIT+G/122qlQqjbqPznfxu1rNjqTv9GmYdpZlvehDPwYwiLVYh/XYgI3YhMfxBJ5E2/DZo5jAJKYwjRkcw3GcwEmcwml8jx/wI37Cz/gFPV1ZNgdzMQ/zsQALsQiLsQT34j4sxf14AH/x+bM4h/O4gIu4hMu4kqVdcxXXcB1DGMYIRjGGcezCbuzBXuzDfryEl/GK8bPW+/ob/+Bf/If/cQMreQ+rsBpr0EYv+tCPAQxiLdZhPTZgI2Zhdld9BinXFHPy1IXls9b7qqqfB7EN27EDOzGEYYxgFGMYxy7sxh7sxT4sx4qu+gxSrinmZKkLy3gtj3XrfVXVzyYcxCEcxpGQPyYwiSlMYwbHcBwncBKnsAVbIxmkXFPMyVIXnrFuva+q+tmP3/A7/sCfIX+cxTmcxwVcxCVcxhVcxTV8hwORDFKuKeZkqQvPWLfeV1X9nEZ3K8vuwt24B7MwGz2Yg7mYh/lYgIVYhMX4lc+fiWSQck0xJ0tdeOYA631V1c91PMJ7eBSPYRmWYwVWYhVWYw3a6EUf+jGAO3Bnqz6DlGuKOVnqwjMHWO+rqn6W4Dk8jxfwIrZgK7ZhO3ZgJ4YwjBGMYgwP4eFWfQYp1xRzstSFZw6w3ldV/QziK3yNb/BtyB8HcBCHcBhHcBQTmMQUpvEMno1kkHJNMSdLXXjmAOt9VdXPeCs+vjv135D9F3z+y0gGKdcUc2qyFnkKT2NzdmustxPWNdb7qqqfmVZ8fHfqv6nZW8dYk7XIq3gNr99+l551Tf6/VOO7U/9N7fPWMebdj4bnV+xtVeO7U/9N7fPWdZZ3PxqeX7G3VY3vTv03tc9b11ne/Wh4ftXetvx+2wl9NaVHhzV4an+wrrO8+9Hw/Kq9bfn9Kvpq6NFhjk7tD9Y+7N2PhudX7W3L71d1Zhjm6Lw/FGu6qr6tfdi7Hw3Pr9rblt+v6sywOEcXa7qqvq192LsfDbmp9rbl96vqq8U5uljTivr27kdDbrGeWzVOUuaBqr7a9H+V55RQ04r69q5XQ26xntt0Hqjqq6o5pUdU3971asgt1nObjpOqvqqaU0JNK9YN3vVqyC3Wc5uOk6q+qppTQk0r1g3e+0jJLWWcqPpa6pwSalqxbvDObSm5pYwTVV/Ls1PlEVs3ePcM5e+ryi1lnKj6Wp6dKo/YGsS7Zwjfp8ha1dfy7FR5xNYg3j1D+D5F1qq1cr5WV+URqwPvniF8nyJr1RlEvu5X5RGrA+/+Y6koa9UZRL7uV+URqwPv/iN8nyJr1RlEvu5X5RGrA+/+I3yfImvVGUS+7lflEasD7/5js2jsqX5fz3NT5RGrA8UaSZG16ve3PDdVHrE6UKyRFFmrfn/Lc1PlEasDxRpJkbXq97c8N1UesTpQrJFUWZf3grG1RV1uqjxidaBYI6myLvfV2NqinFs705wZWOrgje4sexNv4W28g3fxHt7vjv/9g8RrPsRHgv+X+l3q68K9f4xP8Ck+w+fdmjVSXW16+mrVfFO311adGVjGvGKNVDfGrH3VMwZVZwaW2lGsker+v7Wves5yVGcGltqx9temz5a6H/GMQdWZgeWdWPcbTZ8tta96xqDqzMDyTqz9temzpfZVzxhUnRlY3om1vzZ9ttS+6hmDqjMDyzux9temz5a6H/GMQdWZgeWdWPtr02dL3Y94xqBqH2l5JzcB5tz4Xw==
+  </data>
+ </layer>
+</map>
